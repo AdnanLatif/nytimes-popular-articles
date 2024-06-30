@@ -6,11 +6,11 @@ import {
   CardFooter,
   Typography,
   Button,
-} from "@material-tailwind/react";
+} from '@material-tailwind/react';
 
 const DetailCard = ({ title, subtitle, image, description, url }) => {
   return (
-    <Card className="max-w-sm rounded overflow-hidden shadow-lg bg-white m-4">
+    <Card className="max-w-sm gap-2 rounded overflow-hidden shadow-lg bg-white m-4">
       <CardHeader className="relative h-56">
         <img
           src={image}
