@@ -1,8 +1,8 @@
 ## USE YARN INSTEAD OF NPM
 
-##
-
 For class components switch to `class-components` branch.
+
+##
 
 # Getting Started with Create React App
 
