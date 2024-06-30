@@ -1,0 +1,26 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true,
+    "cypress/globals": true
+  },
+  "extends": [
+    "react-app",
+    "plugin:cypress/recommended",
+    "prettier"
+  ],
+  "plugins": [
+    "react",
+    "prettier",
+    "cypress"
+  ],
+  "rules": {
+    "prettier/prettier": "error"
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}

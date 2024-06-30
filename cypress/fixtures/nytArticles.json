@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "Test Article",
+      "byline": "By Test Author",
+      "abstract": "Test abstract",
+      "url": "http://example.com",
+      "media": [
+        {
+          "media-metadata": [
+            { "url": "small.jpg" },
+            { "url": "medium.jpg" },
+            { "url": "large.jpg" }
+          ]
+        }
+      ]
+    }
+  ]
+}
