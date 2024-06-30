@@ -1,9 +1,13 @@
+## USE YARN INSTEAD OF NPM
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 After cloning this repo use
+
 ### `yarn install`
+
 to install required dependencies.
 
 ## Available Scripts
@@ -44,5 +48,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Run Cypress Test
+
 ### `npx cypress open`
+
 Select E2E test and run test on `article_list_spec.cy.js`
+
+## API Keys
+
+REACT_APP_NYT_API_KEY this key should be present in .env file. I will share my API key with you over the email
+But it's better use your own key.
