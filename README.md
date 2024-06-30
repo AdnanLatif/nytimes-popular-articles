@@ -1,5 +1,9 @@
 ## USE YARN INSTEAD OF NPM
 
+##
+
+For class components switch to `class-components` branch.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
